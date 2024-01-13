@@ -1,0 +1,200 @@
+.v1{
+		width: 420px;
+		margin: auto;
+		display: block;
+		overflow: hidden;
+		height: 900px;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		position: absolute;
+		/* background: url('./3.jpg'); */
+		/* background-size: cover; */
+		/* background-position: center; */
+	}
+.v2{}
+.v3,.v2{
+	position: absolute;
+	z-index: 1;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	/* height: 100%; */
+	/* width: auto; */
+	/* right: 0; */
+	/* bottom: 0; */
+	/* min-width: 100%; */
+	/* min-height: 100%; */
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+	/* position: fixed; */
+	/* top: 0; */
+	/* left: 0; */
+}
+.v4{}
+.v5{}
+.t1{}
+.t2{}
+.t3{}
+.t4{}
+.t5{}
+.t6{}
+.t7{}
+.t8{}
+.t9{}
+.t10{}
+.t11{}
+.t12{}
+.t13{}
+.t14{}
+.t15{}
+.t16{}
+.t17{}
+.t18{}
+.t19{}
+.t20{}
+.t21{}
+.t22{}
+.t23{}
+.t24{}
+.t25{}
+.t26{}
+.t27{}
+.t28{}
+.t29{}
+.t30{}
+.t31{}
+.t32{}
+.t33{}
+.t34{}
+.t35{}
+.t36{}
+.t37{}
+.t38{}
+.t39{}
+.t40{}
+.t41{
+	background: #096456;
+}
+.t42{
+	background: #096456;
+}
+.t43{
+    background: url(./ezgif-2-7c59d45731.gif);
+    background-size: cover;
+    background-position: center;
+}
+.t44{}
+.t45{}
+.t46{
+	position: absolute;
+	top: 10%;
+	left: 35%;
+	z-index: 1;
+	width: 30%;
+	height: auto;
+	display: none;
+}
+.t47{
+	position: absolute;
+	top: 31%;
+	left: 20%;
+	z-index: 1;
+	width: 60%;
+	height: auto;
+	display: none;
+}
+.t48{
+	/*display: none;*/
+	background: url(./ezgif-2-fab5a8d946.gif);
+	background-size: cover;
+	background-position: center;
+}
+.t49{}
+.t50{}
+.t51{
+	/* position: absolute; */
+	/* top: 15%; */
+	/* left: 21%; */
+	/* z-index: 1; */
+	/* width: 60%; */
+	/* height: auto; */
+	display: none;
+	margin: auto;
+	/*margin-bottom: 25px;*/
+}
+.t52{
+	/* position: absolute; */
+	/* top: 30%; */
+	/* left: 5%; */
+	/* z-index: 1; */
+	/* width: 90%; */
+	/* height: auto; */
+	display: none;
+	margin-bottom: 32px;
+}
+.t53,.t52 p{
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	font-family: Roboto;
+	margin: 0;
+	line-height: 1.2;
+	margin-bottom: 5px;
+}
+.t52 p.t54{
+	text-transform: uppercase;
+	color: #fec526;
+	font-size: 23px;
+}
+.t52 p.t55{}
+
+.t56a{
+	/* position: absolute; */
+	/* top: 43%; */
+	/* left: 5%; */
+	/* z-index: 1; */
+	/* width: 90%; */
+	/* height: auto; */
+	/* display: none; */
+}
+
+.t56{
+	/* position: absolute; */
+	/* top: 43%; */
+	/* left: 5%; */
+	/* z-index: 1; */
+	/* width: 90%; */
+	/* height: auto; */
+	display: none;
+}
+.t57{
+    max-width: 100%;
+}
+.t58{
+    max-width: 100%;
+}
+.t59{
+    display: block;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    width: 100%;
+    z-index: 1;
+}
+.t60{}
+@media only screen and (max-width:991px) {
+	.v1{
+    top: 0;
+    left: 0;
+    transform: none;
+    width: 100%;
+    height: 100%;
+}.t53, .t52 p{
+    font-size: 49px;
+    line-height: 1.2;
+}.t52 p.t54{
+    font-size: 54px;
+}
+} 
