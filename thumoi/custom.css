@@ -132,7 +132,7 @@
 	/* width: 90%; */
 	/* height: auto; */
 	display: none;
-	margin-bottom: 32px;
+	margin-bottom: 0px;
 }
 .t53,.t52 p{
 	font-size: 20px;
@@ -141,7 +141,7 @@
 	font-family: Roboto;
 	margin: 0;
 	line-height: 1.2;
-	margin-bottom: 5px;
+	margin-bottom: 3px;
 }
 .t52 p.t54{
 	text-transform: uppercase;
@@ -150,24 +150,7 @@
 }
 .t52 p.t55{}
 
-.t56a{
-	/* position: absolute; */
-	/* top: 43%; */
-	/* left: 5%; */
-	/* z-index: 1; */
-	/* width: 90%; */
-	/* height: auto; */
-	/* display: none; */
-}
-
 .t56{
-	/* position: absolute; */
-	/* top: 43%; */
-	/* left: 5%; */
-	/* z-index: 1; */
-	/* width: 90%; */
-	/* height: auto; */
-	display: none;
 }
 .t57{
     max-width: 100%;
@@ -178,7 +161,7 @@
 .t59{
     display: block;
     position: absolute;
-    top: 2%;
+    top: 0%;
     left: 0%;
     width: 100%;
     z-index: 1;
